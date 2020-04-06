@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/elazarl/goproxy"
+	"github.com/Ice3man543/goproxy"
 	"github.com/elazarl/goproxy/transport"
 )
 

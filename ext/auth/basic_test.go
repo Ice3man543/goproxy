@@ -14,7 +14,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/elazarl/goproxy"
+	"github.com/Ice3man543/goproxy"
 	"github.com/elazarl/goproxy/ext/auth"
 )
 

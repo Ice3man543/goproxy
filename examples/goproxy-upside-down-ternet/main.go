@@ -1,11 +1,12 @@
 package main
 
 import (
-	"github.com/elazarl/goproxy"
-	"github.com/elazarl/goproxy/ext/image"
 	"image"
 	"log"
 	"net/http"
+
+	"github.com/Ice3man543/goproxy"
+	goproxy_image "github.com/elazarl/goproxy/ext/image"
 )
 
 func main() {
